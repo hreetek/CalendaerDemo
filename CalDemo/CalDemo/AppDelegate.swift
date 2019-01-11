@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CelandarAppGitHub
+//  CalDemo
 //
 //  Created by Mac Min on 11/01/19.
 //  Copyright © 2019 Mac Min. All rights reserved.
